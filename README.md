@@ -9,6 +9,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - Zod
 - React Hook Form
 
+## BE
+- https://github.com/cuongbui1203/lms
+
 ## Getting Started
 
 First, run the development server:
